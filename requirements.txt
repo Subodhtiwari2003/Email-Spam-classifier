@@ -3,4 +3,5 @@ pandas
 scikit-learn
 matplotlib  
 seaborn
-tensorflow  
+tensorflow 
+nltk 
