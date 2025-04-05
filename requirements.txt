@@ -5,3 +5,5 @@ matplotlib
 seaborn
 tensorflow
 nltk
+flask
+requests    
