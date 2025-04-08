@@ -62,19 +62,6 @@ Make sure you have the following installed:
 
 ---
 
-## Dataset
-The project uses a publicly available dataset for training the model, such as:
-- [SpamAssassin Public Corpus](https://spamassassin.apache.org/publiccorpus/)
-
-The dataset is preprocessed to clean, stem, and extract relevant features for training.
-
----
-
-
-```
-
----
-
 ## Future Enhancements
 - Integration with email servers for automated classification.
 - Improved text preprocessing techniques for higher accuracy.
