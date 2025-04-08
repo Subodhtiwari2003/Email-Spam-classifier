@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For queries or feedback, reach out to:
-- **Email**: your_email@example.com
+- **Email**: kumarsubodh150403@gmail.com
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 ---
