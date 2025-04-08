@@ -1,10 +1,4 @@
 # Email Spam Classifier
-Certainly! Here's a structured and professional README file for your **Email Spam Classifier** project:
-
----
-
-# Email Spam Classifier
-
 ## Project Overview
 The **Email Spam Classifier** is a machine learning application designed to predict whether an email is spam or not. This project uses scikit-learn for model training, Flask for creating a web interface, and Pickle for model serialization. It provides a simple yet effective solution for filtering spam emails with ease.
 
@@ -24,15 +18,6 @@ The **Email Spam Classifier** is a machine learning application designed to pred
 - **Flask**: For building the web application.
 - **Pickle**: For saving and loading the trained model.
 - **Text Preprocessing Techniques**: Cleaning, stemming, and feature extraction.
-
----
-
-## Installation
-
-### Prerequisites
-Make sure you have the following installed:
-- Python 3.x
-- Pip (Python Package Installer)
 
 ### Steps
 1. Clone this repository:
