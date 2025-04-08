@@ -70,15 +70,7 @@ The dataset is preprocessed to clean, stem, and extract relevant features for tr
 
 ---
 
-## Folder Structure
-```plaintext
-├── app.py                # Flask application
-├── model.pkl             # Pickle file of the trained model
-├── requirements.txt      # Required dependencies
-├── templates/            # HTML templates for the web interface
-├── static/               # Static files (CSS, JS, images)
-├── README.md             # Documentation file
-└── dataset/              # Folder containing dataset (optional)
+
 ```
 
 ---
